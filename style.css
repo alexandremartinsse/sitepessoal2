@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.Config{
+    margin: 20px;
+    border: 50px;
+    border-radius: 10pX;
+    color: rgb(0, 179, 255);
+    padding: 10px;
+    background-color: rgb(0, 88, 93);
+}
+.config2{
+    margin: 30px;
+    border: 60px;
+    border-radius: 10pX;
+    color: rgb(255, 113, 113);
+    padding: 5px;
+    background-color: rgb(93, 0, 0);
+}
+.config3{
+    margin: 30px;
+    border: 60px;
+    border-radius: 10pX;
+    color: rgb(248, 255, 49);
+    padding: 5px;
+    background-color: rgb(92, 93, 0);
+}
+.config4{
+    margin: 30px;
+    border: 60px;
+    border-radius: 10pX;
+    color: rgb(0, 255, 72);
+    padding: 5px;
+    background-color: rgb(0, 112, 0);
+}
+.paragrafo{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
